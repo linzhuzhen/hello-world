@@ -6,6 +6,7 @@
 - 建库步骤
 - （1）创建分支
 
+![] (https://github.com/linzhuzhen/hello-world/blob/master/github_create_branch.png)
 
 - （2）填写分支相关信息
 
